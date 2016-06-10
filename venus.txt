@@ -1,0 +1,7 @@
+venus is beautiful and full of love
+git add venus.txt
+echo "venus is too hot to be suitable as a base" >> venus.txt
+git commit -m "comments on venus as a suitable base"
+git checkout HEAD venus.txt
+
+venus is beautiful and full of love
